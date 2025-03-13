@@ -5,9 +5,9 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 github:
-  zip_url: https://www.regrubeis.com/geografia
-  tar_url: https://www.regrubeis.com/geografia
-  repository_url: https://www.regrubeis.com/geografia
-  repository_nwo: https://www.regrubeis.com/geografia
-  owner_url: https://www.regrubeis.com/geografia
+  zip_url: https://regrubeis.github.io/geografico/
+  tar_url: https://regrubeis.github.io/geografico/
+  repository_url: https://regrubeis.github.io/geografico/
+  repository_nwo: https://regrubeis.github.io/geografico/
+  owner_url: https://regrubeis.github.io/geografico/
   owner_name: Regrubeis.com
